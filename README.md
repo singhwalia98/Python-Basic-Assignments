@@ -1,2 +1,2 @@
 # Python-Basic-Assignments-
-Ineuron Assignements for Basic Python course
+Assignements given by iNeuron for Python learning.  
